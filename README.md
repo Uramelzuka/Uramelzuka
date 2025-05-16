@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -55,6 +54,11 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+
+<!-- <div align="center">
+<img align="left" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+</div> -->
 
 <div align="left">
   <a href="https://www.linkedin.com/in/dafrizal/" target="_blank">
