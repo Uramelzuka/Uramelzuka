@@ -26,13 +26,6 @@
   <img src="https://streak-stats.demolab.com?user=Uramelzuka&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
-## 🔥 Proyek Unggulan
-
-<div align="center">
-  <a href="https://github.com/Uramelzuka/flutter_alquran_app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Uramelzuka&repo=flutter_alquran_app&theme=dracula" alt="Flutter Al-Quran App" />
-  </a>
-</div>
 
 ## 💻 Tech Stack
 
@@ -47,18 +40,12 @@
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </div>
 
-### 🎮 Game Development
-<div align="center">
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-</div>
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Uramelzuka/Uramelzuka/output/snake.svg" alt="Snake animation" />
