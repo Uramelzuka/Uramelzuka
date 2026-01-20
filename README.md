@@ -19,21 +19,20 @@
 
 <div align="center">
 
-  <!-- FIXED: removed private commits -->
-  <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uramelzuka&theme=dracula&area=true" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Uramelzuka&theme=dracula" />
-  </div>
+  <!-- Commit Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uramelzuka&theme=dracula&area=true&hide_border=true" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uramelzuka&layout=compact&theme=dracula&cache_seconds=86400" height="150" />
+  <br/><br/>
+
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=Uramelzuka&theme=dracula&hide_border=true" />
+
+  <br/><br/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uramelzuka&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" height="150" />
 
 </div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Uramelzuka&theme=dracula&cache_seconds=86400" />
-</div>
-
 ---
 
 ## 💻 Tech Stack
