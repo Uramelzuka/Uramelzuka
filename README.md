@@ -20,7 +20,11 @@
 <div align="center">
 
   <!-- FIXED: removed private commits -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Uramelzuka&show_icons=true&theme=dracula&cache_seconds=86400" height="150" />
+  <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uramelzuka&theme=dracula&area=true" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Uramelzuka&theme=dracula" />
+  </div>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uramelzuka&layout=compact&theme=dracula&cache_seconds=86400" height="150" />
 
