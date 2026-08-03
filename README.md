@@ -19,7 +19,7 @@
 <div align="center">
 
   <!-- Commit Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Uramelzuka&theme=dracula&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uramelzuka&theme=dracula&area=true&hide_border=true" />
 
   <br/><br/>
 
