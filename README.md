@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://github.com/uramelzuka"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+uramelzuka+%F0%9F%91%8B;Fullstack+Developer;Laravel+%C2%B7+Vue+%C2%B7+Go" alt="Typing intro" /></a>
+<a href="https://github.com/uramelzuka"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3FB950&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+uramelzuka+%F0%9F%91%8B;Fullstack+Developer;Laravel+%C2%B7+Vue+%C2%B7+Go;Flutter+%C2%B7+React+Native" alt="Typing intro" /></a>
 
 <p><b>Product-minded Fullstack Developer</b> · Indonesia 🇮🇩</p>
 <p>I build web apps end-to-end — from database to deployment — and care about what users actually need.</p>
@@ -26,6 +26,7 @@ role:        Fullstack Developer
 focus:       [web apps, admin dashboards, deployment & infra]
 backend:     [PHP, Laravel, Filament, Google Apps Script]
 frontend:    [Vue 3, Nuxt 3, JavaScript]
+mobile:      [Flutter, React Native]
 database:    [MySQL]
 learning:    [Go 🐹]
 fun_fact:    "I deploy a lot of my stuff over SSH from an iPad"
@@ -35,7 +36,7 @@ fun_fact:    "I deploy a lot of my stuff over SSH from an iPad"
 
 <h3><code>uramelzuka@github ~ $ ls ./stack</code></h3>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,go,js,vue,nuxtjs,mysql,linux,nginx,git,firebase&perline=11" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=php,laravel,go,js,vue,nuxtjs,flutter,dart,react,mysql,linux,nginx,git,firebase&perline=14" alt="Tech stack" />
 
 </div>
 
